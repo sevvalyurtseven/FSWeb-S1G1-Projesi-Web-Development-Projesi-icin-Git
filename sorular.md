@@ -16,6 +16,8 @@ asdfs
 
 2. Git ile GitHub arasında ne fark var?
 
+birisi selpak digeri kagit mendl
+
 3. Neden bir branch oluşturuyoruz?
 
 4. Pull Request'in amacı nedir?
